@@ -7,6 +7,9 @@ export const Decks = () => {
       <h1>Decks 🐈</h1>
       <AddNewDeckForm />
       <DecksList />
+      <footer>
+        Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
+      </footer>
     </div>
   )
 }
